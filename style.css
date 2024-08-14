@@ -1,0 +1,25 @@
+.container{
+    width: 50%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.images{
+    width: 100%;
+    position: absolute;
+}
+body{
+    background-color: pink;
+}
+
+h1 > span{
+    color: red;
+}
+
+.open{
+    background-color: gray;
+    display: block;
+}
+.close{
+    display: none;
+}
